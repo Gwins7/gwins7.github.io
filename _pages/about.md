@@ -9,7 +9,7 @@ profile:
   image: gwins7.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ICT, CAS</p>
+    <p>Institute of Computing Technology, Chinese Academy of Sciences</p>
     <p>6 Kexueyuan Nanlu, Zhongguancun</p>
     <p>Haidian, Beijing, P.R.C</p>
 
