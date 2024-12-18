@@ -79,7 +79,12 @@
       "keywords": [
         "Agile hardware design (Chisel)",
         "HW/SW Codesign with FPGA",
-        "system firmware/software stack",
+        "system firmware/software stack"
+      ]
+    },
+    {
+      "name": "Hardware Security",
+      "keywords": [
         "Security mechanism on modern processors",
         "Side-channel attacks"
       ]
@@ -90,21 +95,23 @@
       "name": "CCoreOS",
       "summary": "A simple OS kernel totally made by a group of bachelor students",
       "highlights": ["Operating System"],
-      "date": "2022",
+      "startDate": "2022-04-01",
+      "endDate": "2022-08-01",
       "url": "https://github.com/Gwins7/CCoreOS"
     },
     {
       "name": "SmartNIC",
       "summary": "A Chisel-written FPGA Smart NIC for hardware offloading, which support 100Gbps high-speed transmission, pipeline processing of packages, and multi functions by default (like TCP checksum offloading, RSS shunting, RE matching...)",
       "highlights": ["Smart NIC"],
-      "date": "2023",
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-01",
       "url": "https://github.com/Gwins7/SmartNIC"
     },
     {
       "name": "DASICS",
       "summary": "A secure processor solution which protects against unintended out-of-bounds accesses and bounces by isolating the memory address spaces accessed by different code segments and setting their respective access rights",
       "highlights": ["Secure Processor Solution"],
-      "date": "2024",
+      "startDate": "2023-09-01",
       "url": "https://github.com/DASICS-ICT"
     }
   ]
