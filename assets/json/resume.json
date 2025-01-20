@@ -10,7 +10,7 @@
     "location": {
       "address": "6 Kexueyuan Nanlu",
       "postalCode": "100190",
-      "city": "Zhongguancun. Haidian",
+      "city": "Zhongguancun, Haidian",
       "countryCode": "CN",
       "region": "Beijing"
     },
@@ -45,9 +45,15 @@
   ],
   "awards": [
     {
-      "title": "First Place in Second Prize",
+      "title": "Outstanding student of SKLP, ICT; Director's Excellence Award",
+      "date": "2024",
+      "awarder": "Institute of Computing Technology, Chinese Academy of Sciences",
+      "url": "https://www.ict.ac.cn/"
+    },
+    {
+      "title": "First Place in Second Prize, OS implementation track",
       "date": "2022",
-      "awarder": "2022 University Student Competition of OS Kernel design",
+      "awarder": "CSCC University Student Computer System Development Capability Competition",
       "url": "https://compiler.educg.net/#/chDetail"
     },
     {
@@ -69,7 +75,13 @@
     },
     {
       "language": "English",
-      "fluency": "IELTS 7.5",
+      "fluency": ["IELTS: 7.5 overall in 2021/12;",
+                  "TOEFL: Preparing"],
+      "icon": ""
+    },
+    {
+      "language": "Japanese, German",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
