@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student, ICT, CAS
+subtitle: Master's Student, ICT, CAS
 
 profile:
   align: right
@@ -18,10 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! 
+Hello!
 
-I'm Tianyi Huang (Gwins7), a M.S. student in Institute of Computing Technology, Chinese Academy of Sciences (ICT,CAS). I'm a member of Security Group, Architecture Laboratory, Center for Advanced Computer Systems (ACS), advised by [Prof. Mingyu Chen](https://asg.ict.ac.cn/cmy/english/). My current research fields are Computer Architecture, HW/SW codesign with FPGA, and Processor Security Mechanisms. I usually coding in C, Verilog and Chisel, but I also have interest on Rust. 
+I’m Tianyi Huang (Gwins7), a Master’s student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I’m part of the Security Group in the Architecture Laboratory at the Center for Advanced Computer Systems (ACS), where I work under the guidance of  [Prof. Mingyu Chen](https://asg.ict.ac.cn/cmy/english/). My research focuses on Computer Architecture, HW/SW Codesign with FPGA, and Processor Security Mechanisms. While I primarily work with C, Verilog, and Chisel, I’m also exploring Rust.
 
-Please track our latest progress of research on [Our Group's Github Page](https://github.com/orgs/DASICS-ICT). We are developing DASICS (Dynamic in-Address-Space Isolation by Code Segments), a processor security mechanisms on [Xiangshan](https://github.com/OpenXiangShan/XiangShan) (an open-source high-performance RISC-V processor), which is my main job now.
+You can follow our latest research progress on [Our Group's Github Page](https://github.com/orgs/DASICS-ICT). We’re developing DASICS (Dynamic in-Address-Space Isolation by Code Segments), a processor security mechanism for [Xiangshan](https://github.com/OpenXiangShan/XiangShan), an open-source, high-performance RISC-V processor. This is currently my main project.
 
-This homepage is currently just a framework to be filled, so please follow my Github account or contact me by email for details!
+This homepage is still under construction, so please feel free to follow my GitHub or contact me via email for more details!
