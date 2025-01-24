@@ -6,7 +6,7 @@
     "email": "huangtianyi23s@ict.ac.cn",
     "phone": "",
     "url": "https://gwins7.github.io/",
-    "summary": "A master student engaging in Computer Architecture and Hardware Security",
+    "summary": "A Master's Student engaging in Computer Architecture and Hardware Security",
     "location": {
       "address": "6 Kexueyuan Nanlu",
       "postalCode": "100190",
@@ -28,7 +28,7 @@
       "location": "Beijing, China",
       "url": "https://www.ict.ac.cn/",
       "area": "Computer Architecture",
-      "studyType": "Master Student",
+      "studyType": "Master's Student",
       "startDate": "2023-09-01",
       "endDate": "2026-06-30"
 
@@ -75,8 +75,7 @@
     },
     {
       "language": "English",
-      "fluency": ["IELTS: 7.5 overall in 2021/12;",
-                  "TOEFL: Preparing"],
+      "fluency": "IELTS: 7.5 overall in 2021/12",
       "icon": ""
     },
     {
